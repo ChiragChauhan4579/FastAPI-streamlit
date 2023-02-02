@@ -14,6 +14,9 @@ class request_body(BaseModel):
     sepal_width : float
     petal_length : float
     petal_width : float
+    class Config:
+        orm_mode = True
+
  
 # Loading Iris Dataset
 iris = load_iris()
