@@ -5,7 +5,7 @@ import requests
 os.environ['NO_PROXY'] = '127.0.0.1'
 import streamlit as st
 
-st.title("BentoML Streamlit Demo")
+st.title("FastAPI Streamlit Demo")
 
 sl = st.number_input('Enter value for sepal length')
 sw = st.number_input('Enter value for sepal width')
