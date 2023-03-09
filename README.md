@@ -13,4 +13,4 @@ How to use this repo:
 
 Streamlit output:
 
-![img][https://github.com/ChiragChauhan4579/FastAPI-streamlit/blob/main/Capture.PNG]
+![img][https://github.com/ChiragChauhan4579/FastAPI-streamlit/blob/main/Capture.PNG?raw=True]
